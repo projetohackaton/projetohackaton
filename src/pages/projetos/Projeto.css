@@ -1,0 +1,25 @@
+.prj{
+    margin-top: 3rem;
+   text-align: center;
+}
+
+.adc{
+    width: 160px;
+    height: 46px;
+    background: #005AD5;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border: solid #FFFFFF;
+    margin-top: 30px;
+}
+
+.adc:hover{
+    cursor: pointer;
+    
+}
+
+.container{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
